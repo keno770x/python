@@ -1,1 +1,1 @@
-ul = ("admin", "userone", "usertwo")
+["admin", "userone", "usertwo"]
